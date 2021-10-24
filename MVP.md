@@ -1,6 +1,6 @@
 ## Project MVP
 
-The purpose of this project is to help used car buyers/sellers to determine how much their cars worth based on the cars' features.
+The purpose of this project is to build an end to end used car sale price prediction application and help used car buyers/sellers to determine how much their cars worth based on the cars' features.
 
 At this point, the model's hyperparameters are tuned, and the tuned model provided the following scores:
 
