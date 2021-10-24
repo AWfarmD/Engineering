@@ -1,6 +1,6 @@
 ### Engineering Project Proposal ###
 
-**Purpose:** To build an end to end used car price application and help used car buyers/sellers to determine how much their cars worth based on the cars' features.
+**Purpose:** To build an end to end used car price prediction application and help used car buyers/sellers to determine how much their cars worth based on the cars' features.
 
 **Dataset:** Car sale price and features from cars.com will be scraped.  Sale price is the target, and features could be: car year, make, mileage per gallon, total mileage, drivetrain, fuel type, transmission, engine type, number of entertainment features, and number of safety features.
 
